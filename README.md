@@ -5,5 +5,5 @@
 
 Socials:
 Discord - lexcopr
-itch - lexcopr
-insta - (in the future)
+/ itch - lexcopr
+/ insta - (in the future)
